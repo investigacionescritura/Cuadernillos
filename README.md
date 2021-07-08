@@ -1,6 +1,6 @@
-#Cuadernillos de ejercicios para la escritura
+# Cuadernillos de ejercicios para la escritura
 
-##Proyecto toma mi mano y escribamos juntos
+## Proyecto toma mi mano y escribamos juntos
 
 
 
