@@ -68,3 +68,16 @@ p {
     text-align: left;
   }
   
+.img-container{
+  text-align: center;
+}
+
+.img-container img{
+  width: 100%;
+  max-width: 550px;
+}
+
+img.full-width{
+  width: 100%;
+  max-width: none;
+}
