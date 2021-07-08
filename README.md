@@ -12,7 +12,7 @@ Trabajo desarrollado por Michelle Mc Isaac y Francisca Cortés del Taller de Tí
 
 Para la edición, cada tipo de texto se le asociará un color, el cual será el que predomine a lo largo del cuadernillo acompañado de un personaje llamado "Nunito" que servirá de guía para el estudiante.
 
-En paralelo se plantea que exista una página web que contenga todas las ediciones, sus partes y los cuadernillos en PDF descargable para que quede registro del material y los profesores puedan volver a ello cuando estimen conveniente. 
+En paralelo se plantea que exista una página web que contenga la información de las ediciones, juegos, audios y los cuadernillos en PDF descargable para que quede registro del material y los profesores puedan volver a ello cuando estimen conveniente. 
 
 
 ![alt text](https://github.com/investigacionescritura/Cuadernillos/blob/main/img/logospucv.png "logospucv.png")
