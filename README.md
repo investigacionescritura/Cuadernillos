@@ -8,7 +8,7 @@ Este se ubica en el Colegio Las Amapilas en Santa Julia, parte como jardín soci
 # Diseño para la escritura
 ## Cuadernillos de ejercicios para la escritura
 
-Trabajo desarrollado por Michelle Mc Isaac y Francisca Cortés del Taller de Título: Accesibilidad e Inclusión 2021. Se propone un cuadernillo de escritura para cada curso del proyecto el cual va a ser dedicado a un tipo de texto en específico.  Se plantea la importancia de la escritura manual acompañada de momentos digitales, por lo que se propone  que este  contenga materia, mapas conceptuales y ejercicios  que se apoyan con juegos online vinculados por medio de códigos QR/links.  Además, este cuadernillo estaría inserto en una carpeta que genere un espacio de trabajo que se compone de una sección para el cuadernillo junto a  un espacio para apuntes. 
+Trabajo desarrollado por Michelle Mc Isaac y Francisca Cortés del Taller de Título: Accesibilidad e Inclusión 2021, bajo la guía de los profesores Herbert Spencer y Katherine Exss. Se propone un cuadernillo de escritura para cada curso del proyecto el cual va a ser dedicado a un tipo de texto en específico.  Se plantea la importancia de la escritura manual acompañada de momentos digitales, por lo que se propone  que este  contenga materia, mapas conceptuales y ejercicios  que se apoyan con juegos online vinculados por medio de códigos QR/links.  Además, este cuadernillo estaría inserto en una carpeta que genere un espacio de trabajo que se compone de una sección para el cuadernillo junto a  un espacio para apuntes. 
 
 Para la edición, cada tipo de texto se le asociará un color, el cual será el que predomine a lo largo del cuadernillo acompañado de un personaje llamado "Nunito" que servirá de guía para el estudiante.
 
