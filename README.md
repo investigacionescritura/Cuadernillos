@@ -2,7 +2,7 @@
 
 El proyecto toma mi mano y escribamos juntos es un plan de acompañamiento escolar para la enseñanza de escritura en contextos de emergencia realizados por estudiantes de educación básica, educación especial y diseño de la Pontificia Universidad Católica de Valparaíso. De este proyecto nace el trabajo de título "diseño para la escritura" de la carrera de diseño.
 
-Este se ubica en el Colegio Las Amapilas en Santa Julia, parte como jardín social el cual fue expandiéndose hasta el día de hoy hasta llegar a ser un proyecto educativo medioambiental. Cuenta con 18 docentes y 206 estudiantes, de los cuales 55 de ellos están en el proyecto PIE (estrategia inclusiva del sistema educacional, que tiene el propósito de contribuir al mejoramiento continuo de la calidad de la educación).
+Este se ubica en el Colegio Las Amapolas en Santa Julia, parte como jardín social el cual fue expandiéndose hasta el día de hoy hasta llegar a ser un proyecto educativo medioambiental. Cuenta con 18 docentes y 206 estudiantes, de los cuales 55 de ellos están en el proyecto PIE (estrategia inclusiva del sistema educacional, que tiene el propósito de contribuir al mejoramiento continuo de la calidad de la educación).
 
 
 # Diseño para la escritura
