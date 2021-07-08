@@ -15,4 +15,3 @@ Para la edición, cada tipo de texto se le asociará un color, el cual será el 
 En paralelo se plantea que exista una página web que contenga todas las ediciones, sus partes y los cuadernillos en PDF descargable para que quede registro del material y los profesores puedan volver a ello cuando estimen conveniente. 
 
 
-
