@@ -9,7 +9,7 @@ nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white
+  background-color: rgb(231, 213, 238)
 }
 
 nav>li {
@@ -37,7 +37,8 @@ body {
   max-width: 900px;
   margin: 1em auto;
   font-size: 1em;
-  background-image: url("img/background.png");
+  background-image: url("img/fondo.png");
+  background-size: contain;
   line-height: 1.6em;
 }
 
