@@ -15,4 +15,4 @@ Para la edición, cada tipo de texto se le asociará un color, el cual será el 
 En paralelo se plantea que exista https://investigacionescritura.github.io/Cuadernillos/ para contener la información de las ediciones, juegos, audios y los cuadernillos en PDF descargable para que quede registro del material y los profesores puedan volver a ello cuando estimen conveniente. 
 
 
-![alt text](https://github.com/investigacionescritura/Cuadernillos/blob/main/img/logospucv.png "logospucv.png")
+
